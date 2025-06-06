@@ -44,6 +44,12 @@ A colorful flyer for my personal fiverr gig.
 ![Logo and Price tag](images/logo&flyer/logo_and_Ptag.png)
 A clear and informative logo and price tag for a client.
 
+![Community Logo](images/logo&flyer/oko_ewe.png)
+A logo design for a community.
+
+![Birthday Flyer](images/logo&flyer/birthday_invite.png)
+A clear and informative logo and price tag for a client.
+
 ### Photo Editing
 ![My work photo edit](images/photo_edit/photo_edit.png)
 A combined image of edited and original.
